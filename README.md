@@ -1,2 +1,2 @@
 # pitu_presencesync
-[alt text](https://i.imgur.com/JLbxFLZ.png "xd")
+![alt text](https://i.imgur.com/JLbxFLZ.png "xd")
